@@ -1,0 +1,13 @@
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\bin\Debug\FromsEnc.exe.config
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\bin\Debug\FromsEnc.exe
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\bin\Debug\FromsEnc.pdb
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\bin\Debug\EasyEncryption.dll
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\obj\Debug\FromsEnc.csproj.AssemblyReference.cache
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\obj\Debug\FromsEnc.Form1.resources
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\obj\Debug\FromsEnc.Properties.Resources.resources
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\obj\Debug\FromsEnc.csproj.GenerateResource.cache
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\obj\Debug\FromsEnc.csproj.CoreCompileInputs.cache
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\obj\Debug\FromsEnc.csproj.CopyComplete
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\obj\Debug\FromsEnc.exe
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\obj\Debug\FromsEnc.pdb
+C:\Users\nie\source\repos\FromsEnc\FromsEnc\obj\Debug\FromsEnc.Choose.resources
